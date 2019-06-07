@@ -1,0 +1,44 @@
+#: table_doi: 10.17182/hepdata.78802.v1/t80
+#: name: Table 80
+#: description: Set of fit parameters for the multiplicity distribution in pseudorapidity range -3.4 to 5.0 in INEL>0 collisions at center-of-mass energy 900 GeV.
+#: data_file: Table80.yaml
+#: keyword observables: MULT
+#: keyword reactions: P P --> CHARGED X
+#: keyword cmenergies: 900
+#: keyword phrases: Charged particle multiplicity | Forward rapidity
+#: NUM,1.0
+#: ETARAP,-3.4-5.0
+#: CLASS,INEL>0
+#: SQRT(S) [GEV],900
+'PARNAME','SET'
+'alpha',0.93
+'n1',0.46
+'k1',20.45
+'n2',4.61
+'k2',47.77
+'lambda',4.41
+
+#: NUM,2.0
+#: ETARAP,-3.4-5.0
+#: CLASS,INEL>0
+#: SQRT(S) [GEV],900
+'PARNAME','SET'
+'alpha',0.92
+'n1',0.41
+'k1',19.37
+'n2',4.77
+'k2',44.72
+'lambda',4.07
+
+#: NUM,3.0
+#: ETARAP,-3.4-5.0
+#: CLASS,INEL>0
+#: SQRT(S) [GEV],900
+'PARNAME','SET'
+'alpha',0.92
+'n1',0.37
+'k1',18.35
+'n2',5.06
+'k2',42.06
+'lambda',3.87
+

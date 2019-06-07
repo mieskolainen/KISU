@@ -1,0 +1,44 @@
+#: table_doi: 10.17182/hepdata.78802.v1/t58
+#: name: Table 58
+#: description: Set of fit parameters for the multiplicity distribution in pseudorapidity range -3.0 to 3.0 in NSD collisions at center-of-mass energy 8000 GeV.
+#: data_file: Table58.yaml
+#: keyword observables: MULT
+#: keyword reactions: P P --> CHARGED X
+#: keyword cmenergies: 8000
+#: keyword phrases: Charged particle multiplicity | Forward rapidity
+#: NUM,1.0
+#: ETARAP,-3.0-3.0
+#: CLASS,NSD
+#: SQRT(S) [GEV],8000
+'PARNAME','SET'
+'alpha',0.97
+'n1',0.31
+'k1',16.77
+'n2',3.22
+'k2',57.63
+'lambda',2.49
+
+#: NUM,2.0
+#: ETARAP,-3.0-3.0
+#: CLASS,NSD
+#: SQRT(S) [GEV],8000
+'PARNAME','SET'
+'alpha',0.94
+'n1',0.26
+'k1',15.5
+'n2',3.63
+'k2',51.58
+'lambda',2.19
+
+#: NUM,3.0
+#: ETARAP,-3.0-3.0
+#: CLASS,NSD
+#: SQRT(S) [GEV],8000
+'PARNAME','SET'
+'alpha',0.9
+'n1',0.19
+'k1',14.2
+'n2',5.01
+'k2',44.9
+'lambda',2.92
+
