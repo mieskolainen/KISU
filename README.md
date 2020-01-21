@@ -8,4 +8,16 @@ https://arxiv.org/abs/1905.12585
 <img width="500px" src="figs/NSD_N0_SQRTS_7000_ETAMIN_-3.0_ETAMAX_3.0_SKIP0BIN_0.png">
 
 
-mikael.mieskolainen@cern.ch, 2019
+## Citation
+If you find this work useful, you may cite the paper:
+```
+@article{mieskolainen2019inversion,
+    title={On the Inversion of High Energy Proton},
+    author={Mikael Mieskolainen},
+    year={2019},
+    journal={arXiv:1905.12585},
+    eprint={1905.12585},
+    archivePrefix={arXiv},
+    primaryClass={hep-ph}
+}
+```
