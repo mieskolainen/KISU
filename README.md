@@ -8,8 +8,9 @@ https://arxiv.org/abs/1905.12585
 <img width="500px" src="figs/NSD_N0_SQRTS_7000_ETAMIN_-3.0_ETAMAX_3.0_SKIP0BIN_0.png">
 
 
-## Citation
-If you find this work useful, you may cite the paper:
+## Reference
+
+If you use this work in your research, please cite the paper:
 ```
 @article{mieskolainen2019inversion,
     title={On the Inversion of High Energy Proton},
